@@ -1,0 +1,126 @@
+  <!DOCTYPE html>
+  <html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width= , initial-scale=1.0">
+    <title>NEW PROJECT</title>
+
+
+</head>
+
+<body bgcolor="cyan" text="darkblue">
+
+    <img src="logo.jpg" width="100px" alt="logo here"><br><br><br>
+    <p><font color="navyblue"><u>THE BLACK PEARL</u></font></p>
+    
+    <img src="black pearl.jpg" alt="Image here" width="100%" height="500px"><br>
+    <p><font color="yellow">THE PIRATE THEME</font></p>
+    <audio src="Pirates-Of-The-Caribbean-Theme.mp3" controls></audio><br><br><br>
+    
+     <p><font color="yellow">THE WAVING FLAG</font></p>
+
+    <video src="the pirate flag.webm" muted autoplay loop></video><br><br>
+
+    <p><u>THE ROUTE TO THE TREASURE</u></p>
+
+
+    <p><strong>THE MAP</strong></p>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31673095.975158617!2d-95.97510202609408!3d14.291392428723599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c05740f2d973079%3A0x74e7300c2d25f9bc!2sCaribbean%20Sea!5e0!3m2!1sen!2sin!4v1752583148989!5m2!1sen!2sin" width="250" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br><br>
+
+
+    <a href="https://maps.app.goo.gl/7DAfdp9a61vhGtiY6" target="_blank"><font color="darkgreen" >sail into the Caribbean sea</font></a>
+
+    <h1>Crew Details of the Black Pearl</h1>
+
+    <table border="2" bgcolor="black" width="100%">
+        <tr >
+
+            <th><font color="white">serial no</font></th>
+            <th><font color="white">Name of the Crew</font></th>
+            <th><font color="white">Role</font></th>
+            <th><font color="white">Years spend</font></th>
+            <th><font color="white">Special Note</font></th>
+        </tr>
+        
+      <tr> 
+
+          <td><font color="silver">1</font></td>
+          <td><font color="silver">CAPTAIN SAROSH</font></td>
+          <td rowspan="2"><font color="silver">CAPTAIN</font></td>
+          <td><font color="silver">10</font></td>
+          <td><font color="silver">SHIP MASTER</font></td>
+        
+
+
+
+      </tr>
+      <tr>
+<td><font color="silver">2</font></td>
+<td><font color="silver">CAPTAIN JACK SPARROW</font></td>
+<td><font color="silver">7</font></td>
+<td><font color="silver">THE TRICKESTER</font></td>
+
+
+      </tr>
+
+      <tr>
+          <td><font color="silver">2</font></td>
+          <td><font color="silver">CHUTKI</font></td>
+          <td><font color="silver">NAVIGATOR</font></td>
+          <td><font color="silver">5</font></td>
+          <td><font color="silver">FINDS SECRETROUTE</font></td>
+          <td></td>
+        
+
+
+
+      </tr>
+
+
+
+    </table>
+
+
+
+    <h1><strong>JOIN THE SHIP</strong></h1><br>
+
+    <form>
+<p align="center"><strong>JOIN PIRACY</strong></p><br><br>
+<fieldset>
+
+    <legend><u><b></b>CONTACT US</u></legend>
+
+<label for="name"><u><b>NAME</b></u></label><br> <input type="text" required placeholder="Enter Your Name" id="name"> 
+
+
+
+
+<br>
+<label for="e-mail"><u><b>YOUR EMAIL</b></u></label><br> <input type="email"required placeholder="ENTER YOUR EMAIL" id="e-mail"><br>
+<label for="message"><u><b>PIRATE CODE</b></u></label><br> <input type="number" required placeholder="YOUR PIRATE CODE" id="message"><br>
+
+<p align="right">
+    <a href="https://blackpearl.com" target="_blank"><font color="black">About</font></a>&nbsp;
+    <a href="https://blackpearl.com" target="_blank"><font color="black">Contact Us</font></a>&nbsp;
+    <a href="https://blackpearl.com" target="_blank"><font color="black">Sail to the Black Pearl</font></a>&nbsp;
+</p> 
+
+
+
+</fieldset>
+
+
+
+
+    </form>
+
+
+
+
+
+
+
+
+</body>
+</html>
