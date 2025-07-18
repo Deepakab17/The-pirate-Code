@@ -1,0 +1,95 @@
+
+body {
+    background-color: cyan;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+#quote1 {
+    background-color: black;
+    font-style: italic;
+    color: gold;
+
+
+}
+#para1 {
+
+background-color:brown;
+letter-spacing: 2px;
+text-align: center;
+text-decoration: underline;
+
+.name-list{
+
+
+    list-style-type: decimal;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+}
+.top-name{
+font-size: larger;
+font-style: normal;
+font-weight: bolder;
+text-align: center;
+
+
+
+}
+#quote2{
+text-align: center;
+font: bolder ;
+margin: 20px;
+padding: 30px;
+text-decoration: underline;
+background-color: black;
+color: gold;
+border-left: 5px solid silver;
+border-right: 5px solid silver;
+
+
+}
+.contacts{
+
+  display: flex;
+  justify-content: flex-end;  
+  gap: 5px;                 
+  padding: 15px;
+  text-decoration: underline;
+}
+
+.contacts a {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+  
+
+}
+
+#button1{
+
+  background-color: black;
+  color: seagreen;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  text-transform: uppercase;
+  transition: box-shadow 0.4s ease-in;
+}
+
+#button1:hover {
+    background-color: aqua;
+    box-shadow: 0 0 15px 5px gold;
+ 
+
+
+}
+
+
