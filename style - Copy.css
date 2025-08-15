@@ -4,10 +4,9 @@ body {
   
   
    background-image: url(j.jpg);
-    background-size: calc(100% + 50px) calc(100% + 50px);
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment:scroll;
 }
 
 
@@ -18,11 +17,13 @@ body {
     color:gold;
     text-decoration: underline;
     transition:.8s all ease ;
+    cursor: pointer;
 
 
 }
 #quote1:hover{
-  color: aqua;
+  color: black;
+
 }
 #para1 {
 
@@ -64,6 +65,7 @@ margin-left:-150px;
 .right{
 
   margin-left: 250px;
+  margin-bottom:
 
 
 
